@@ -1,1 +1,1 @@
-# shopping-cart1
+Implemting a functional project in django
