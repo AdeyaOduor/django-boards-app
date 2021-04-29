@@ -1,1 +1,1 @@
-Implemting a functional project in django
+Implementing a functional project in django
